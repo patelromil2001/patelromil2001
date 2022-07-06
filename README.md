@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patelromil2001
-- 👀 I’m interested in 
+- 👀 I’m interested in UI development 
 - 🌱 I’m currently learning javascript,oops & python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on designing payment gateway
 - 📫 How to reach me patelromil.2001@gmail.com
 
 <!---
