@@ -1,53 +1,148 @@
-🎆 Hey, I'm Romil!
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Scalable+%26+High-Performance+Apps;Your+Vision%2C+My+Code+—+Let's+Build+Greatness!" /> </p>
-<p align="center"> <img src="https://i.imgur.com/zY3XG7F.gif" width="100%" /> </p>
-🧑‍💻 About Me
+<!-- ---------------------------------------------------------
+      GitHub Profile README – Romil
+      Author: Romil Patel
+      Note: Works best when assets folder + workflows exist.
+----------------------------------------------------------- -->
 
-🔥 Full-Stack Developer specializing in React, Node.js, JavaScript & modern backend services
-🚀 Your Vision, My Code — Let’s Build Something Great!
-🎨 Passionate about UI/UX, clean architecture & performance optimization
-⚡ Active learner exploring cloud technologies & scalable systems
+<div align="center">
 
-🚀 Tech Stack
-Frontend
+<!-- 🌈 Custom Banner -->
+<img src="assets/banner.gif" width="100%" style="border-radius: 10px;" />
+
+<br><br>
+
+# 🎆 Hey, I'm <span style="color:#5ABEFF;">Romil!</span>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Scalable+%26+High-Performance+Apps;Your+Vision%2C+My+Code+—+Let's+Build+Greatness!" />
+
+</div>
+
+---
+
+## 🧑‍💻 **About Me**
+
+- 🔥 Full-Stack Developer — **React**, **Node.js**, **JavaScript**, **MongoDB**, **MySQL**
+- 🚀 _Your Vision, My Code — Let’s Build Something Great!_
+- 🎨 Passionate about UI/UX, clean architecture, performance & scalable systems
+- ☁️ Exploring AWS, deployment pipelines & backend infrastructure
+
+---
+
+## 🚀 **Tech Stack**
+
+### **Frontend**
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,tailwind&theme=dark" />
-Backend & Databases
+
+### **Backend & Database**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-Tools & DevOps
+
+### **Tools & Cloud**
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vscode,vercel,netlify&theme=dark" />
-🌐 Portfolio
 
-▶️ Take a look at my work:
-🔗 https://codevs.onrender.com/
+---
 
-📌 Recent Projects (Auto Generated Style)
-🔹 Micro Jobs Portal (React + Node + MongoDB)
+## 🌐 **Portfolio**
 
-Full-stack application for posting and hiring micro jobs
+🔗 **https://codevs.onrender.com/**
 
-Real-time updates, JWT auth, secure APIs
+---
 
-🔹 E-Commerce Store UI
+## 📌 **Recent Projects**
 
-React-based store with product filtering, cart & responsive UI
+### 🔹 **Micro Jobs Portal**
 
-🔹 Personal Portfolio v2
+A full-stack job marketplace (React + Node + MongoDB)
 
-Animated, modern portfolio using React + Framer Motion
+- 🔐 JWT Auth
+- ⚡ Real-time actions
+- 📡 REST APIs
 
-(Add your repository names later — I formatted this in a "recent projects section" style.)
+### 🔹 **E-Commerce Store UI**
 
-📊 GitHub Analytics (Dark & Stylish)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=romilpatel-7&theme=tokyonight&show_icons=true&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=romilpatel-7&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romilpatel-7&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
-🎉 Animated Badges & Cool Stuff
-<p align="center"> <img src="https://img.shields.io/badge/Code%20Wizard-💻-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/Coffee%20Powered-☕-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20to%20Work-🧑‍💼-brightgreen?style=for-the-badge" /> </p>
-📬 Connect With Me
+- 🛒 React UI
+- 🧮 Product filters
+- 📱 Responsive layout
 
-🌐 Portfolio: https://codevs.onrender.com/
+### 🔹 **Portfolio v2 (Animated)**
 
-💼 LinkedIn: linkedin.com/in/patelromil2001/
-📧 Email: patelromil.2001@gmail.com
+- 🎞️ React + Framer Motion
+- ⚡ Smooth animations
+- 🎨 Clean, modern design
 
-🚀 Fun Fact
+---
 
-I turn coffee into clean, scalable code ☕➡️💻
+## 🐍 **Snake Eating My Contributions**
+
+_(auto-updated weekly by workflow)_
+
+<div align="center">
+  <img src="assets/snake.svg" width="100%" />
+</div>
+
+---
+
+## 🏙️ **3D GitHub Skyline**
+
+_(generated via workflow, fully customizable)_
+
+<div align="center">
+  <img src="assets/skyline.svg" width="100%" />
+</div>
+
+---
+
+## 📊 **GitHub Stats (Dark Theme)**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=romilpatel-7&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=romilpatel-7&theme=tokyonight&hide_border=true" height="165" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romilpatel-7&layout=compact&theme=tokyonight&hide_border=true" height="140" />
+
+</div>
+
+---
+
+## 📊 **Contribution Activity Graph**
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=romilpatel-7&theme=react-dark&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🎉 **Badges**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20Wizard-💻-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffee%20Powered-☕-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-🧑‍💼-brightgreen?style=for-the-badge" />
+</div>
+
+---
+
+## 📬 **Connect With Me**
+
+- 🌐 Portfolio → **https://codevs.onrender.com/**
+- 💼 LinkedIn → _Add your link here_
+- ✉️ Email → _Add your email_
+
+---
+
+<div align="center">
+  
+### ⚡ *I turn coffee into clean, scalable code.*  
+☕ ➡️ 💻
+
+</div>
+
+---
+
+<sub>✨ Auto-generated visuals powered by GitHub Actions — updated weekly.</sub>
