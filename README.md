@@ -5,17 +5,8 @@
 
 <div align="center">
 
-<!-- 🌈 Custom Banner -->
+<!-- Custom Banner -->
 <img src="assets/banner.gif" width="100%" style="border-radius: 10px;" />
-
-<br><br>
-
-# 🎆 Hey, I'm <span style="color:#5ABEFF;">Romil!</span>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Scalable+%26+High-Performance+Apps;Your+Vision%2C+My+Code+—+Let's+Build+Greatness!" />
-
-</div>
 
 ---
 
