@@ -1,7 +1,6 @@
 <!-- ---------------------------------------------------------
       GitHub Profile README – Romil
       Author: Romil Patel
-      Note: Works best when assets folder + workflows exist.
 ----------------------------------------------------------- -->
 
 <div align="center">
@@ -75,49 +74,6 @@ A full-stack job marketplace (React + Node + MongoDB)
 
 ---
 
-## 🐍 **Snake Eating My Contributions**
-
-_(auto-updated weekly by workflow)_
-
-<div align="center">
-  <img src="assets/snake.svg" width="100%" />
-</div>
-
----
-
-## 🏙️ **3D GitHub Skyline**
-
-_(generated via workflow, fully customizable)_
-
-<div align="center">
-  <img src="assets/skyline.svg" width="100%" />
-</div>
-
----
-
-## 📊 **GitHub Stats (Dark Theme)**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=romilpatel-7&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=romilpatel-7&theme=tokyonight&hide_border=true" height="165" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romilpatel-7&layout=compact&theme=tokyonight&hide_border=true" height="140" />
-
-</div>
-
----
-
-## 📊 **Contribution Activity Graph**
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=romilpatel-7&theme=react-dark&hide_border=true" width="100%" />
-</div>
-
----
-
 ## 🎉 **Badges**
 
 <div align="center">
@@ -131,8 +87,8 @@ _(generated via workflow, fully customizable)_
 ## 📬 **Connect With Me**
 
 - 🌐 Portfolio → **https://codevs.onrender.com/**
-- 💼 LinkedIn → _Add your link here_
-- ✉️ Email → _Add your email_
+- 💼 LinkedIn → **https://www.linkedin.com/in/patelromil2001/**
+- ✉️ Email → patelromil.2001@gmail.com
 
 ---
 
@@ -144,5 +100,3 @@ _(generated via workflow, fully customizable)_
 </div>
 
 ---
-
-<sub>✨ Auto-generated visuals powered by GitHub Actions — updated weekly.</sub>
